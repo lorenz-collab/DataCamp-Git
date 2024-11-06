@@ -1,2 +1,2 @@
 # Lorenz
-Lorenz repository voor Git les.
+Lorenz repository voor GitHub.
